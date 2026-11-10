@@ -1,0 +1,17 @@
+{
+  "source": "Zenodo 10.5281/zenodo.19470865 (Li et al., CC BY 4.0)",
+  "provenance": "THIRD_PARTY_SENSOR",
+  "extracted_to": "data_external/guangdong/ (0_Sensors/ and CRP/ only, images excluded)",
+  "files": {
+    "01_Granite_slope.zip": {
+      "bytes": 300165586,
+      "sha256": "40ddb7d9af4185b6f123f1f2cfe4370036ff21ddf9ab401d2066b87fd0b08c0d",
+      "md5_zenodo": "afd2fbd533859d3e145607fece47bb86"
+    },
+    "02_Sandstone_Slope.zip": {
+      "bytes": 317193522,
+      "sha256": "b90ad3dc7a95512a50335c2ce84e4470e4f476c9481984a36de96936f7f957d3",
+      "md5_zenodo": "0497d416712f5a0bdad69de173ca2610"
+    }
+  }
+}
